@@ -24,7 +24,7 @@
         <sonar.tests>src/test/java</sonar.tests>
         <sonar.java.binaries>target/classes</sonar.java.binaries>
         <sonar.host.url>http://localhost:9000</sonar.host.url>
-        <sonar.login>sqa_ec5755b514abd591ffeaa4fcf1a906af7fae3de4</sonar.login>
+        <sonar.login>squ_37eb8f22ac91dbaa1d4cf18254344d8da6a61627</sonar.login>
 
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
